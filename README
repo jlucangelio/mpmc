@@ -1,0 +1,3 @@
+mpmc (Multi-Platform MemCheck) is a proof-of-concept MemCheck-like tool for Windows and Linux.
+
+It's built using the Pin instrumentation framework.
